@@ -6,14 +6,9 @@ repo: upptime # Your Github repository name
 sites:
   - name: ve1.com
     url: https://www.ve1.com
-  - name: FungShui
-    url: https://www.fungshui.us/
   - name: Davis Print & Packaging
     url: https://store.davisprintandpack.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+ 
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
