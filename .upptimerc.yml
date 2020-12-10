@@ -4,12 +4,12 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: ve1.com
+    url: https://www.ve1.com
+  - name: FungShui
+    url: https://fungshui.us
+  - name: Davis Print & Packaging
+    url: https://store.davisprintandpack.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Secret Site
