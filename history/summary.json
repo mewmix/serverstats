@@ -10,32 +10,30 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4146,
-    "timeDay": 4146,
-    "timeWeek": 4146,
-    "timeMonth": 4146,
-    "timeYear": 4146,
+    "time": 6041,
+    "timeDay": 6041,
+    "timeWeek": 6041,
+    "timeMonth": 6041,
+    "timeYear": 6041,
     "dailyMinutesDown": {}
   },
   {
     "name": "FungShui",
-    "url": "https://fungshui.us",
-    "icon": "https://favicons.githubusercontent.com/fungshui.us",
+    "url": "https://www.fungshui.us/",
+    "icon": "https://favicons.githubusercontent.com/www.fungshui.us",
     "slug": "fung-shui",
-    "status": "down",
-    "uptime": "7.39%",
-    "uptimeDay": "7.39%",
-    "uptimeWeek": "7.39%",
-    "uptimeMonth": "7.39%",
-    "uptimeYear": "7.39%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2020-12-10": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Davis Print & Packaging",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2264,
-    "timeDay": 2264,
-    "timeWeek": 2264,
-    "timeMonth": 2264,
-    "timeYear": 2264,
+    "time": 2010,
+    "timeDay": 2010,
+    "timeWeek": 2010,
+    "timeMonth": 2010,
+    "timeYear": 2010,
     "dailyMinutesDown": {}
   },
   {
@@ -80,9 +78,9 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
@@ -90,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-10": 0
+      "2020-12-10": 3
     }
   }
 ]
