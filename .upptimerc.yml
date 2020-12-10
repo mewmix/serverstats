@@ -8,6 +8,8 @@ sites:
     url: https://www.ve1.com
   - name: Davis Print & Packaging
     url: https://store.davisprintandpack.com
+    -name: Jitsi Server
+    url: https://councilcast.ddns.net
  
 
 status-website:
